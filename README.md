@@ -30,6 +30,8 @@ pip install pandas
 pip install matplotlib
 pip install sklearn
 pip install seaborn
+pip install kearas
+pip install tensorflow
 ```
 
 ## Contributions and Feedback
